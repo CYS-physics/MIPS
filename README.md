@@ -1,9 +1,7 @@
 motility induced phase separation
 
-active particles with no interaction or even repulsive interaction
+separation into dense and dilute fluid phases arises without attractive interactions (Fernando Coballero and Michael E. Cates (2020), PRL 124, 240604)
 
-loses motility as active particles' density grows
-
-then we can find phase separation in active particles density
+high density decreases motility
 
 ![](mips.gif)
